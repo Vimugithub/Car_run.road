@@ -7,7 +7,7 @@ body{
 	height: 85vh;
 	width: 130vh;
 	margin: 5rem auto;
-	background: url("./moon.jpg");
+	background: url("moon.jpg");
 	background-size: cover;
 	position: relative;
 	box-shadow: 1px 2px 60px rgba(0, 0, 0, 4);
